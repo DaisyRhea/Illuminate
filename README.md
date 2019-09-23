@@ -2,6 +2,11 @@
 Text Analysis Application
 
 
-Various physiological signals such as EEG, EOG, EMG, ECG, etc can be collected during polysomnographic sleep studies and used to detect sources of arousal (non-apnea) during sleep. 
-Sleep is critical to health and well-being. Inadequate or poor-quality sleep is associated with a wide range of negative outcomes, such as impaired cognitive and motor function, irritability, obesity, and depression. “Arousals” are brief intrusions of wakefulness into sleep, after which sleep resumes and can cause harm when excessive. 
-It follows that improving the quality of sleep could be used to improve a range of societal health outcomes, more generally. Of course, the treatment of sleep disorders is preceded by the diagnosis of sleep disorders. Traditionally, such diagnoses are developed in sleep laboratory settings, where PSG, audio, and videography of sleeping subject may be carefully inspected by sleep experts to identify potential sleep disorders. This can be very useful in providing patients with good sleep.
+Text analytics, also known as text mining, is the methodology and process followed to derive quality and actionable information and insights from textual data. 
+
+This involves using NLP, information retrieval, and machine learning techniques to parse unstructured text data into more structured forms and deriving patterns and insights from this data that would be helpful for the end user. 
+
+Text analytics comprises a collection of machine learning, linguistic, and statistical techniques that are used to model and extract information from text primarily for analysis needs, including business intelligence, exploratory, descriptive, and predictive analysis.
+
+NLP is defined as a specialized field of computer science and engineering and artificial intelligence with roots in computational linguistics. NLP techniques enable computers to process and understand natural human language and utilize it further to provide useful output. 
+
